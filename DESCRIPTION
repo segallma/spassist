@@ -1,0 +1,16 @@
+Package: spassist
+Type: Package
+Title: helper functions for spatial ecology projects
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Marcelo", "Segall",
+      email = "marcelosegall@gmail.com.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Some spatial helper functions to remove redundancy in my projects. Feel free to use.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
